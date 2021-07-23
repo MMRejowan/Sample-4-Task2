@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.item{
+    
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.
+dl {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+h1{
+  text-align: center;
+}
